@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Runbrick! 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Native+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
-</p>
-
----
-
 ### 🛠 My Tech Stack
 
 | Category | Skills |
@@ -17,35 +11,50 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 Github Metrics (Real-time)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runbrick&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runbrick&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&bg_color=0,000000,130F40" />
+  <img src="https://img.shields.io/badge/Rank-Full--Stack%20Engineer-36BCF7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Building%20Future-success?style=for-the-badge&logo=git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/runbrick?style=flat-square&label=Total%20Stars&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/followers/runbrick?style=flat-square&label=Followers&logo=github&color=orange" />
+  <img src="https://img.shields.io/github/languages/count/runbrick/runbrick?style=flat-square&label=Languages&color=yellow" />
+  <img src="https://img.shields.io/github/search/runbrick/runbrick/goto?style=flat-square&label=Keywords&color=brightgreen" />
 </p>
 
 ---
 
-### 🧩 Open Source & Contributions
+### 📈 Contribution Graph (Weekly Update)
 
-> "Code is poetry, and I'm a poet of logic."
-
-* 🔭 **I’m currently working on:** Microservice architecture and high-concurrency systems.
-* 🌱 **I’m currently learning:** Rust and advanced eBPF for cloud-native monitoring.
-* 👯 **I’m looking to collaborate on:** Interesting Open Source projects about DevTools or AI.
-* 💬 **Ask me about:** Java, Spring, Vue, or how to deploy everything on K8s.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/runbrick/runbrick/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/runbrick/runbrick/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/runbrick/runbrick/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-### 📈 Contribution Graph
-![Snake animation](https://github-curse.vercel.app/api/snake?github_user=runbrick&color_dots=%23bfd6f6,%238dbdff,%2364a1ff,%234b91ff,%23217aff&color_snake=%2336BCF7)
+### 🧩 Open Source & Interests
+
+- 🔭 **Focusing on:** High-concurrency system architecture and microservices.
+- 🌱 **Exploring:** Rust for performance-critical components.
+- 💬 **Ask me about:** Java/Spring, Kubernetes, and Web development.
+- ⚡ **Fun fact:** I believe that "Perfect is the enemy of Good," but my code must be clean.
 
 ---
 
 ### 📫 Connect with me
-<p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=rss&logoColor=black" /></a>
-</p>
 
-<p align="center">⭐️ From <b>Runbrick</b> with Love ⭐️</p>
+<p align="left">
+  <!-- <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a> -->
+  <a href="https://github.com/runbrick">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" alt="Github" />
+  </a>
+</p>
